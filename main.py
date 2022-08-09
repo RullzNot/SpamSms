@@ -8,9 +8,9 @@ class Main:
 	def menu(self):
 		print("""
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-		;       S P A M  S M S      ;
+		;   S P A M  S M S By Ndaa  ;
 		;---------------------------;
-		;       Author : noobie     ;
+		;       Author : Ndaa     ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 NOTE: This tool's only work for Indonesia number phone.
